@@ -1,0 +1,9 @@
+.ui-input-search, div.ui-input-text {width:85%; margin: 2em 0;}
+.ui-field-contain .ui-input-search, .ui-field-contain div.ui-input-text { margin-bottom: 2em; }
+.ui-grid-a > :nth-child(n) { width: 46%; margin-right: -.5px; }
+.ui-shadow-inset {
+	-moz-box-shadow: inset 0 0px 0px 		rgba(0,0,0,.2);
+	-webkit-box-shadow: inset 0 0px 0px 	rgba(0,0,0,.2);
+	box-shadow: inset 0 0px 0px 			rgba(0,0,0,.2);
+}
+.ui-field-contain, fieldset.ui-field-contain { padding: 0em 0; margin: 0; border-width: 0 0 1px 0; overflow: visible; }
